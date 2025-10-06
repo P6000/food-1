@@ -51,16 +51,9 @@ This project is part of the Portfolio of Evidence (Part 2) for the Mobile App Sc
 
 - ## Screenshots
 
-  ## 🏠 Home Screen
-img src="./creenshot 2025-10-06 115925.png" alt="Home Screen" width="350"/>
-
-## ➕ Add Dish Screen
-mg src="./" alt="AddDish Screen" width="350"/>
-
-## 🔍 Filter Screen
-img src="./screenshot 2025-10-06 115925.png" alt="Filter Screen" width="350"/>
- 
-
+  ## 🏠 Home Screenscreenshot 2025-10-06 115925.png
+<img src="2025-10-06 115925.png/home.png" alt="Home Screen" width="350"/>
+<img src="screenshots/addDish.png" alt="Add Dish Screen" width="350"/>
 
 
 
