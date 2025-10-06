@@ -3,7 +3,7 @@ Module: Mobile App Scripting (MAST5112)
 Student Name: Tau Phumelelo  
 Student Number: ST10492650  
 
----
+
 
 ## Project Overview
 The Chef’s Menu App is a mobile application designed for chefs to easily manage their menus.  
@@ -11,7 +11,7 @@ It allows users to add, view, and organize dishes into categories such as starte
 
 This project is part of the Portfolio of Evidence (Part 2) for the Mobile App Scripting module.
 
----
+
 
 ##  Features Implemented
 ## Home Screen
@@ -52,8 +52,8 @@ This project is part of the Portfolio of Evidence (Part 2) for the Mobile App Sc
 - ## Screenshots
 
   ## 🏠 Home Screenscreenshot 2025-10-06 115925.png
-<img src="2025-10-06 115925.png/home.png" alt="Home Screen" width="350"/>
-<img src="screenshots/addDish.png" alt="Add Dish Screen" width="350"/>
+<img src="Screenshot 2025-10-06 121111.png" alt="Home Screen" width="350"/>
+<img src="Screenshot 2025-10-06 175455.png" alt="Add Dish Screen" width="350"/>
 
 
 
